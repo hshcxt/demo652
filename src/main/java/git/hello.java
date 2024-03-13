@@ -12,7 +12,7 @@ public class hello {
         System.out.println("大家安静");
         System.out.println("陈小婷1112222");
         System.out.println("陈小婷");
-        System.out.println("陈小婷8888");
+        System.out.println("陈小婷99999");
 
     }
 }
